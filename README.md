@@ -1,3 +1,5 @@
+![Photo](https://github.com/xyyx/H96-MAX-X3/raw/master/img.jpg "Photo")
+------------
 How to use this driver on H96 MAX X3 or Vontar X3?
 
 - You need to have adb or Root Explorer
@@ -12,6 +14,7 @@ How to use this driver on H96 MAX X3 or Vontar X3?
 - And copy /sdcard/custom/OpenVFD.apk to /system/app/OpenVFD with permissions (755)
 - OpenVFD doesn't have options but it has sources. By default it shows CPU temp for 15 sec every 5 minutes and it has night mode. Night mode turns alarm icon and changes brightness to 1 from 22.00 to 10.00. Default brightness is 5. 
 
+-------------
 - OpenVFD sources - https://github.com/xyyx/OpenVFD
 - dtb.img sources - https://github.com/xyyx/H96-MAX-X3/blob/master/sm1_s905x3_u215_new.dts
 - OpenVFDService sources - https://github.com/xyyx/android_OpenVFDService
