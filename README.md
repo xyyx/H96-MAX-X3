@@ -16,6 +16,7 @@ How to use this driver on H96 MAX X3 or Vontar X3?
 - If you use KODI, you can use kodi plugin instead of OpenVFD.apk - https://github.com/xyyx/service.openvfd
   - Download it as zip and install
 
+- If you have troubles, you can load box from microsd or usb flash. Format to FAT32 and copy files from boot_files folder to root of flash. Unplug power from box and press button in AV. Insert storage, plug power cable and release button in AV after some seconds.
 
 -------------
 - OpenVFD sources - https://github.com/xyyx/OpenVFD
